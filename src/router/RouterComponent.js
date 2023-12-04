@@ -1,19 +1,12 @@
-import { Routes, Route } from 'react-router-dom';
+import { Switch, Route } from 'react-router-dom';
 import HomeView from '../views/HomeView';
 
-function RouterComponent() {
-    function renderRoutes() {
-        return (
-            <Routes>
-                <Route path="/" element={<HomeView />} />
-            </Routes>
-        );
-    }
-  
+function RouterComponent() {  
     return (
-        renderRoutes()
+        <Switch>
+            <Route path="/" element={<HomeView />} />
+        </Switch>
     );
-  }
+}
   
-  export default RouterComponent;
-  
+export default RouterComponent;  
