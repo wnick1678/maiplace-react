@@ -1,0 +1,59 @@
+{
+    "Exotic Alcohol": [
+      {
+        "item": "Special Mai Tai",
+        "price": "10.95"
+      },
+      {
+        "item": "Scorpion for One",
+        "price": "9.95"
+      },
+      {
+        "item": "Blue Hawaii",
+        "price": "9.95"
+      }
+    ],
+    "Cold Sake by the Bottle": [
+      {
+        "item": "Hakushika Junmai Ginjo (300 mL)",
+        "price": "12.95"
+      },
+      {
+        "item": "Murai Tanre 'Warrior' Junmai (300 mL)",
+        "price": "13.95"
+      }
+    ],
+    "White Wine by the Bottle (750 mL)": [
+      {
+        "item": "Chateau Gassier 'Espirit' Roase, France",
+        "price": "18.00"
+      },
+      {
+        "item": "Clifford Bay Sauvignon Blanc, New Zealand",
+        "price": "15.00"
+      },
+      {
+        "item": "Wente 'Riva Ranch' Chardonnay, Monterey",
+        "price": "20.00"
+      },
+      {
+        "item": "Tommasi Pinot Grigio, Veneto",
+        "price": "18.00"
+      }
+    ],
+    "Red Wine by the Bottle (750 mL)": [
+      {
+        "item": "Pedroncelli Cabernet Sauvignon",
+        "price": "18.00"
+      },
+      {
+        "item": "King Estates Pinot Noir, Oregon",
+        "price": "15.00"
+      },
+      {
+        "item": "Pascual Toso Malbec, Argentina",
+        "price": "20.00"
+      }
+    ]
+  }
+  
